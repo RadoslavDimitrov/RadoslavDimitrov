@@ -21,7 +21,7 @@
 | 👀 [**Facebook**](https://www.facebook.com/radoslav.dimitrov.9066)|  :heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/certificates/details/86215/9695c667)| :star: [**Unity**](https://learn.unity.com/u/rado-dimi)|
 | :star: [**HackerRank**](https://www.hackerrank.com/morveto)| :heavy_check_mark: [**C# Advanced 2020**](https://softuni.bg/certificates/details/90289/0449e268)|
 | :e-mail: **Email <br/> Morveto@gmail.com**|:heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/certificates/details/95747/36a1f598)|
-| :-: | :star [**MS SQL**](https://softuni.bg/certificates/details/97906/25add63b) | :-: |
+|| :star: [**MS SQL**](https://softuni.bg/certificates/details/97906/25add63b) ||
 <!--
 **RadoslavDimitrov/RadoslavDimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
