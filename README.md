@@ -25,6 +25,8 @@
 || ✔️[**Entity Framework Core**](https://softuni.bg/certificates/details/102577/41f5aa0c) ||
 || ✔️[**Js Advanced**](https://softuni.bg/certificates/details/114939/c533a967) ||
 || ✔️[**Js Applications**](https://softuni.bg/certificates/details/121050/47972870) ||
+|| ✔️[**Data Structures**](https://softuni.bg/certificates/details/127936/43163273) ||
+|| ✔️[**Data Structures Advanced**](https://softuni.bg/certificates/details/133508/d3e739e7) ||
 <!--
 **RadoslavDimitrov/RadoslavDimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
