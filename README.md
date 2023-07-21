@@ -3,7 +3,7 @@
 
 
  
-- :school: I’m currently learning Software Engineering with C# in SoftUni(Software University - softuni.bg)
+- :school: I've graduated with C# Web Developer from SoftUni(Software University - softuni.bg)
 - :mount_fuji: Freetime  i play with Unity and #UnityLearnProgram
  LearnWithCode - https://learn.unity.com/
 
@@ -27,6 +27,7 @@
 || ✔️[**Js Applications**](https://softuni.bg/certificates/details/121050/47972870) ||
 || ✔️[**Data Structures**](https://softuni.bg/certificates/details/127936/43163273) ||
 || ✔️[**Data Structures Advanced**](https://softuni.bg/certificates/details/133508/d3e739e7) ||
+|| :heavy_check_mark: [**C# Web Developer**](https://softuni.bg/certificates/details/134667/12fa8430)
 <!--
 **RadoslavDimitrov/RadoslavDimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
